@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Soy un ingeniero en computación con un fuerte interés en la robótica, la inteligencia artificial (IA) y el Internet de las Cosas (IoT). Me apasiona combinar la tecnología con la innovación para desarrollar soluciones que mejoren la vida diaria y hagan el mundo más inteligente y conectado.
 
 🚀 Mis Intereses
+
 Robótica: Diseñar y construir robots que puedan interactuar con su entorno y realizar tareas útiles.
 
 Inteligencia Artificial: Explorar cómo las máquinas pueden aprender y tomar decisiones para resolver problemas complejos.
