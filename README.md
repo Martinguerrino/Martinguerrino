@@ -18,7 +18,10 @@ Soy un ingeniero en computación con un fuerte interés en la robótica, la inte
 
 🚀 Mis Intereses
 Robótica: Diseñar y construir robots que puedan interactuar con su entorno y realizar tareas útiles.
+
 Inteligencia Artificial: Explorar cómo las máquinas pueden aprender y tomar decisiones para resolver problemas complejos.
+
 Internet de las Cosas: Crear dispositivos interconectados que recojan y analicen datos para optimizar procesos y mejorar la eficiencia.
+
 📫 Conectemos
 Siempre estoy abierto a colaborar y compartir ideas. ¡No dudes en contactarme!
